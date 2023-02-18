@@ -1,0 +1,3 @@
+Red - #c8102e
+Blue - #003087
+White - #ffffff
