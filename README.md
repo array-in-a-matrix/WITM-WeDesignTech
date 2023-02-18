@@ -2,13 +2,13 @@
 
 ## Setup Development Environment
 
-Install dependencies (Vite & tailwindcss)
+Install dependencies (Vite & tailwindcss):
 
 ```sh
 >  pnpm install
 ```
 
-Run webserver
+Run webserver:
 
 ```sh
 > pnpm run dev
