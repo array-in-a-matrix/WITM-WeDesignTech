@@ -2,7 +2,7 @@
 
 ## Setup Development Environment
 
-Install dependencies (Vite & tailwindcss):
+Install dependencies:
 
 ```sh
 >  pnpm install
