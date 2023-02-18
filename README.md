@@ -8,7 +8,7 @@ Install dependencies (Vite & tailwindcss):
 >  pnpm install
 ```
 
-Run webserver:
+Run webserver (to expose webserver to W/LAN appened the `--host` flag):
 
 ```sh
 > pnpm run dev
